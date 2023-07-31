@@ -1,5 +1,5 @@
 {
   "ameliaUrl": "https://healthcareproviders.demo.amelia.com/Amelia/ui/healthcareproviders/chat?domainCode=healthcareproviderservices",
-  "chatUrl": "https://healthcareproviders.demo.amelia.com/Amelia/ui/healthcareproviders/",
+  "chatUrl": "https://healthcareproviders.demo.amelia.com/Amelia/ui/healthcareproviders?domainCode=healthcareproviderservices",
   "clientUrl": "https://quantum-health.com"
 }
