@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://cslplasma.demo1.amelia.com/Amelia/ui/cslplasma/chat",
-  "chatUrl": "https://cslplasma.demo1.amelia.com/Amelia/ui/cslplasma/chat",
+  "ameliaUrl": "https://cslplasma.demo1.amelia.com/Amelia/ui/cslplasma/chat?domainCode=christianpescatore",
+  "chatUrl": "https://cslplasma.demo1.amelia.com/Amelia/ui/cslplasma/chat?domainCode=christianpescatore",
   "clientUrl": "https://cslplasma.com"
 }
